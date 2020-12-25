@@ -1,4 +1,4 @@
-### Junior Frontend Developer
+### Junior Fullstack Developer
 
 [![Batuhan's github stats](https://github-readme-stats.vercel.app/api?username=batuhanyndny&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
